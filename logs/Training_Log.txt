@@ -1,0 +1,132 @@
+2020-08-12/19:52:43		Re-Training - Started the Re-Training of the model
+2020-08-12/19:52:44		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-12/19:52:44		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-12/19:52:44		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-12/19:52:50		Re-Training - Successfully completed the Model Re-training
+2020-08-12/19:52:50		Re-Training - NewModel file successfully saved
+2020-08-12/20:03:29		Re-Training - Started the Re-Training of the model
+2020-08-12/20:03:30		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-12/20:03:30		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-12/20:03:30		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-12/20:03:39		Re-Training - Successfully completed the Model Re-training
+2020-08-12/20:03:39		Re-Training - NewModel file successfully saved
+2020-08-12/20:13:47		Re-Training - Started the Re-Training of the model
+2020-08-12/20:13:48		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-12/20:13:48		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-12/20:13:49		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-12/20:13:57		Re-Training - Successfully completed the Model Re-training
+2020-08-12/20:13:57		Re-Training - NewModel file successfully saved
+2020-08-12/20:16:51		Re-Training - Started the Re-Training of the model
+2020-08-12/20:16:52		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-12/20:16:52		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-12/20:16:52		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-12/20:17:01		Re-Training - Successfully completed the Model Re-training
+2020-08-12/20:17:01		Re-Training - NewModel file successfully saved
+2020-08-12/21:23:49		Re-Training - Started the Re-Training of the model
+2020-08-12/21:23:49		Exception occured in data pre-processing. Exception message:  [Errno 2] No such file or directory: 'Preprocessed_Files/Preprocessed_File.csv'
+2020-08-12/21:27:43		Re-Training - Started the Re-Training of the model
+2020-08-12/21:27:44		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-12/21:27:44		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-12/21:27:44		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-12/21:27:50		Re-Training - Successfully completed the Model Re-training
+2020-08-12/21:27:50		Re-Training - NewModel file successfully saved
+2020-08-12/22:05:26		Re-Training - Started the Re-Training of the model
+2020-08-12/22:05:27		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-12/22:05:27		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-12/22:05:27		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-12/22:05:34		Re-Training - Successfully completed the Model Re-training
+2020-08-12/22:05:34		Re-Training - NewModel file successfully saved
+2020-08-12/23:18:43		Re-Training - Started the Re-Training of the model
+2020-08-12/23:18:44		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-12/23:18:44		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-12/23:18:44		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-12/23:18:51		Re-Training - Successfully completed the Model Re-training
+2020-08-12/23:18:51		Re-Training - NewModel file successfully saved
+2020-08-13/00:25:11		Re-Training - Started the Re-Training of the model
+2020-08-13/00:25:12		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-13/00:25:12		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-13/00:25:12		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-13/00:25:20		Re-Training - Successfully completed the Model Re-training
+2020-08-13/00:25:20		Re-Training - NewModel file successfully saved
+2020-08-13/00:30:02		Re-Training - Started the Re-Training of the model
+2020-08-13/00:30:03		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-13/00:30:03		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-13/00:30:03		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-13/00:30:10		Re-Training - Successfully completed the Model Re-training
+2020-08-13/00:30:10		Re-Training - NewModel file successfully saved
+2020-08-13/16:40:14		Re-Training - Started the Re-Training of the model
+2020-08-13/16:40:15		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-13/16:40:15		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-13/16:40:15		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-13/16:40:22		Re-Training - Successfully completed the Model Re-training
+2020-08-13/16:40:22		Re-Training - NewModel file successfully saved
+2020-08-13/16:53:36		Re-Training - Started the Re-Training of the model
+2020-08-13/16:53:37		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-13/16:53:37		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-13/16:53:37		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-13/16:53:43		Re-Training - Successfully completed the Model Re-training
+2020-08-13/16:53:43		Re-Training - NewModel file successfully saved
+2020-08-14/00:52:17		Re-Training - Started the Re-Training of the model
+2020-08-14/00:52:18		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-14/00:52:19		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-14/00:52:19		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-14/00:52:26		Re-Training - Successfully completed the Model Re-training
+2020-08-14/00:52:26		Re-Training - NewModel file successfully saved
+2020-08-14/15:20:17		Re-Training - Started the Re-Training of the model
+2020-08-14/15:20:18		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-14/15:20:18		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-14/15:20:18		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-14/15:20:26		Re-Training - Successfully completed the Model Re-training
+2020-08-14/15:20:26		Re-Training - NewModel file successfully saved
+2020-08-14/18:11:07		Re-Training - Started the Re-Training of the model
+2020-08-14/18:11:08		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-14/18:11:08		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-14/18:11:08		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-14/18:11:16		Re-Training - Successfully completed the Model Re-training
+2020-08-14/18:11:16		Re-Training - NewModel file successfully saved
+2020-08-14/19:54:37		Re-Training - Started the Re-Training of the model
+2020-08-14/19:54:38		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-14/19:54:38		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-14/19:54:38		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-14/19:54:48		Re-Training - Successfully completed the Model Re-training
+2020-08-14/19:54:48		Re-Training - NewModel file successfully saved
+2020-08-17/18:59:50		Re-Training - Started the Re-Training of the model
+2020-08-17/18:59:51		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-17/18:59:51		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-17/18:59:51		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-17/18:59:56		Re-Training - Successfully completed the Model Re-training
+2020-08-17/18:59:56		Re-Training - NewModel file successfully saved
+2020-08-18/10:11:28		Re-Training - Started the Re-Training of the model
+2020-08-18/10:11:29		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-18/10:11:29		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-18/10:11:29		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-18/10:11:34		Re-Training - Successfully completed the Model Re-training
+2020-08-18/10:11:34		Re-Training - NewModel file successfully saved
+2020-08-19/10:58:16		Re-Training - Started the Re-Training of the model
+2020-08-19/10:58:17		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-19/10:58:17		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-19/10:58:17		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-19/10:58:22		Re-Training - Successfully completed the Model Re-training
+2020-08-19/10:58:22		Re-Training - NewModel file successfully saved
+2020-08-19/12:09:45		Re-Training - Started the Re-Training of the model
+2020-08-19/12:09:45		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-19/12:09:45		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-19/12:09:45		Exception occured in data pre-processing. Exception message:  Found input variables with inconsistent numbers of samples: [79, 11500]
+2020-08-19/12:22:25		Re-Training - Started the Re-Training of the model
+2020-08-19/12:22:26		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-19/12:22:26		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-19/12:22:26		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-19/12:22:33		Re-Training - Successfully completed the Model Re-training
+2020-08-19/12:22:33		Re-Training - NewModel file successfully saved
+2020-08-20/00:48:56		Re-Training - Started the Re-Training of the model
+2020-08-20/00:48:57		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-20/00:48:57		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-20/00:48:57		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-20/00:49:03		Re-Training - Successfully completed the Model Re-training
+2020-08-20/00:49:03		Re-Training - NewModel file successfully saved
+2020-08-20/00:50:18		Re-Training - Started the Re-Training of the model
+2020-08-20/00:50:19		Re-Training - Successfully read the pre-processed df_X file received for Training.
+2020-08-20/00:50:19		Re-Training - Successfully read the df_Y file received for Training.
+2020-08-20/00:50:19		Re-Training - Train & Test Split of the preprocessed file done
+2020-08-20/00:50:24		Re-Training - Successfully completed the Model Re-training
+2020-08-20/00:50:24		Re-Training - NewModel file successfully saved

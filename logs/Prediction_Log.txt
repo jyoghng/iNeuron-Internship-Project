@@ -1,0 +1,407 @@
+2020-08-12/20:15:50		Prediction - Started the Predictions from the best model 
+2020-08-12/20:15:51		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/20:15:51		Prediction - Successfully loaded the model.
+2020-08-12/20:16:00		Prediction - Successfully completed the predictions.
+2020-08-12/20:16:00		Prediction - Successfully saved the Results in the Json.
+2020-08-12/20:16:00		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/21:08:18		Prediction - Started the Predictions from the best model 
+2020-08-12/21:08:18		Prediction - Exception occured in data pre-processing. Exception message:  [Errno 2] No such file or directory: 'Preprocessed_Files/Preprocessed_File.csv'
+2020-08-12/21:17:52		Prediction - Started the Predictions from the best model 
+2020-08-12/21:17:52		Prediction - Exception occured in data pre-processing. Exception message:  [Errno 2] No such file or directory: 'Preprocessed_Files/Preprocessed_File.csv'
+2020-08-12/21:39:39		Prediction - Started the Predictions from the best model 
+2020-08-12/21:39:39		Prediction - Exception occured in data pre-processing. Exception message:  [Errno 2] No such file or directory: 'Preprocessed_Files/Preprocessed_File.csv'
+2020-08-12/21:44:25		Prediction - Started the Predictions from the best model 
+2020-08-12/21:44:25		Prediction - Exception occured in data pre-processing. Exception message:  [Errno 2] No such file or directory: 'Preprocessed_Files/Preprocessed_File.csv'
+2020-08-12/21:58:43		Prediction - Started the Predictions from the best model 
+2020-08-12/21:58:43		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/21:58:43		Prediction - Successfully loaded the model.
+2020-08-12/21:58:50		Prediction - Successfully completed the predictions.
+2020-08-12/21:58:50		Prediction - Successfully saved the Results in the Json.
+2020-08-12/21:58:50		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/21:59:48		Prediction - Started the Predictions from the best model 
+2020-08-12/21:59:48		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/21:59:48		Prediction - Successfully loaded the model.
+2020-08-12/21:59:48		Prediction - Successfully completed the predictions.
+2020-08-12/21:59:48		Prediction - Successfully saved the Results in the Json.
+2020-08-12/21:59:48		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/22:00:14		Prediction - Started the Predictions from the best model 
+2020-08-12/22:00:14		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/22:00:14		Prediction - Successfully loaded the model.
+2020-08-12/22:00:14		Prediction - Successfully completed the predictions.
+2020-08-12/22:00:14		Prediction - Successfully saved the Results in the Json.
+2020-08-12/22:00:14		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/22:04:39		Prediction - Started the Predictions from the best model 
+2020-08-12/22:04:39		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/22:04:39		Prediction - Successfully loaded the model.
+2020-08-12/22:04:39		Prediction - Successfully completed the predictions.
+2020-08-12/22:04:39		Prediction - Successfully saved the Results in the Json.
+2020-08-12/22:04:39		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/22:06:09		Prediction - Started the Predictions from the best model 
+2020-08-12/22:06:09		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/22:06:09		Prediction - Successfully loaded the model.
+2020-08-12/22:06:09		Prediction - Successfully completed the predictions.
+2020-08-12/22:06:09		Prediction - Successfully saved the Results in the Json.
+2020-08-12/22:06:09		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/22:06:30		Prediction - Started the Predictions from the best model 
+2020-08-12/22:06:31		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/22:06:31		Prediction - Successfully loaded the model.
+2020-08-12/22:06:38		Prediction - Successfully completed the predictions.
+2020-08-12/22:06:38		Prediction - Successfully saved the Results in the Json.
+2020-08-12/22:06:38		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/22:29:33		Prediction - Started the Predictions from the best model 
+2020-08-12/22:29:34		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/22:29:34		Prediction - Successfully loaded the model.
+2020-08-12/22:29:41		Prediction - Successfully completed the predictions.
+2020-08-12/22:29:41		Prediction - Successfully saved the Results in the Json.
+2020-08-12/22:29:41		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/22:29:56		Prediction - Started the Predictions from the best model 
+2020-08-12/22:29:56		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/22:29:56		Prediction - Successfully loaded the model.
+2020-08-12/22:29:56		Prediction - Successfully completed the predictions.
+2020-08-12/22:29:56		Prediction - Successfully saved the Results in the Json.
+2020-08-12/22:29:56		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/22:56:01		Prediction - Started the Predictions from the best model 
+2020-08-12/22:56:02		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/22:56:02		Prediction - Successfully loaded the model.
+2020-08-12/22:56:09		Prediction - Successfully completed the predictions.
+2020-08-12/22:56:09		Prediction - Exception occured in data pre-processing. Exception message:  DataFrame columns must be unique for orient='columns'.
+2020-08-12/23:00:32		Prediction - Started the Predictions from the best model 
+2020-08-12/23:00:33		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:00:33		Prediction - Successfully loaded the model.
+2020-08-12/23:00:40		Prediction - Successfully completed the predictions.
+2020-08-12/23:00:40		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:00:40		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:10:51		Prediction - Started the Predictions from the best model 
+2020-08-12/23:10:51		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:10:51		Prediction - Successfully loaded the model.
+2020-08-12/23:10:59		Prediction - Successfully completed the predictions.
+2020-08-12/23:10:59		Prediction - Exception occured in data pre-processing. Exception message:  [Errno 13] Permission denied: 'Predicted_Files/Result.csv'
+2020-08-12/23:11:58		Prediction - Started the Predictions from the best model 
+2020-08-12/23:11:59		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:11:59		Prediction - Successfully loaded the model.
+2020-08-12/23:12:07		Prediction - Successfully completed the predictions.
+2020-08-12/23:12:07		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:12:07		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:13:43		Prediction - Started the Predictions from the best model 
+2020-08-12/23:13:43		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:13:43		Prediction - Successfully loaded the model.
+2020-08-12/23:13:43		Prediction - Successfully completed the predictions.
+2020-08-12/23:13:43		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:13:43		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:16:42		Prediction - Started the Predictions from the best model 
+2020-08-12/23:16:43		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:16:43		Prediction - Successfully loaded the model.
+2020-08-12/23:16:50		Prediction - Successfully completed the predictions.
+2020-08-12/23:16:50		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:16:50		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:17:23		Prediction - Started the Predictions from the best model 
+2020-08-12/23:17:23		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:17:23		Prediction - Successfully loaded the model.
+2020-08-12/23:17:23		Prediction - Successfully completed the predictions.
+2020-08-12/23:17:23		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:17:23		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:18:27		Prediction - Started the Predictions from the best model 
+2020-08-12/23:18:27		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:18:27		Prediction - Successfully loaded the model.
+2020-08-12/23:18:27		Prediction - Successfully completed the predictions.
+2020-08-12/23:18:27		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:18:27		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:28:14		Prediction - Started the Predictions from the best model 
+2020-08-12/23:28:15		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:28:15		Prediction - Successfully loaded the model.
+2020-08-12/23:28:22		Prediction - Successfully completed the predictions.
+2020-08-12/23:28:22		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:28:22		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:35:00		Prediction - Started the Predictions from the best model 
+2020-08-12/23:35:01		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:35:01		Prediction - Successfully loaded the model.
+2020-08-12/23:35:09		Prediction - Successfully completed the predictions.
+2020-08-12/23:35:09		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:35:09		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:35:28		Prediction - Started the Predictions from the best model 
+2020-08-12/23:35:28		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:35:28		Prediction - Successfully loaded the model.
+2020-08-12/23:35:28		Prediction - Successfully completed the predictions.
+2020-08-12/23:35:28		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:35:28		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:35:40		Prediction - Started the Predictions from the best model 
+2020-08-12/23:35:40		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:35:40		Prediction - Successfully loaded the model.
+2020-08-12/23:35:40		Prediction - Successfully completed the predictions.
+2020-08-12/23:35:40		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:35:40		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:38:24		Prediction - Started the Predictions from the best model 
+2020-08-12/23:38:25		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:38:25		Prediction - Successfully loaded the model.
+2020-08-12/23:38:32		Prediction - Successfully completed the predictions.
+2020-08-12/23:38:32		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:38:32		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:39:46		Prediction - Started the Predictions from the best model 
+2020-08-12/23:39:46		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:39:46		Prediction - Successfully loaded the model.
+2020-08-12/23:39:53		Prediction - Successfully completed the predictions.
+2020-08-12/23:39:53		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:39:53		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:40:10		Prediction - Started the Predictions from the best model 
+2020-08-12/23:40:10		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:40:10		Prediction - Successfully loaded the model.
+2020-08-12/23:40:10		Prediction - Successfully completed the predictions.
+2020-08-12/23:40:10		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:40:10		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:45:48		Prediction - Started the Predictions from the best model 
+2020-08-12/23:45:49		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:45:49		Prediction - Successfully loaded the model.
+2020-08-12/23:45:55		Prediction - Successfully completed the predictions.
+2020-08-12/23:45:55		Prediction - Exception occured in data pre-processing. Exception message:  [Errno 13] Permission denied: 'Predicted_Files/Result.csv'
+2020-08-12/23:46:42		Prediction - Started the Predictions from the best model 
+2020-08-12/23:46:43		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:46:43		Prediction - Successfully loaded the model.
+2020-08-12/23:46:49		Prediction - Successfully completed the predictions.
+2020-08-12/23:46:49		Prediction - Exception occured in data pre-processing. Exception message:  [Errno 13] Permission denied: 'Predicted_Files/Result.csv'
+2020-08-12/23:47:44		Prediction - Started the Predictions from the best model 
+2020-08-12/23:47:45		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:47:45		Prediction - Successfully loaded the model.
+2020-08-12/23:47:52		Prediction - Successfully completed the predictions.
+2020-08-12/23:47:52		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:47:52		Prediction - Successfully saved the Results in the Json.
+2020-08-12/23:51:32		Prediction - Started the Predictions from the best model 
+2020-08-12/23:51:33		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-12/23:51:33		Prediction - Successfully loaded the model.
+2020-08-12/23:51:40		Prediction - Successfully completed the predictions.
+2020-08-12/23:51:40		Prediction - Successfully saved the Results file as desired location.
+2020-08-12/23:51:40		Prediction - Exception occured in data pre-processing. Exception message:  'index=False' is only valid when 'orient' is 'split' or 'table'
+2020-08-13/00:02:34		Prediction - Started the Predictions from the best model 
+2020-08-13/00:02:35		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/00:02:35		Prediction - Successfully loaded the model.
+2020-08-13/00:02:42		Prediction - Successfully completed the predictions.
+2020-08-13/00:02:42		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/00:05:17		Prediction - Started the Predictions from the best model 
+2020-08-13/00:05:18		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/00:05:18		Prediction - Successfully loaded the model.
+2020-08-13/00:05:25		Prediction - Successfully completed the predictions.
+2020-08-13/00:05:28		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/00:07:14		Prediction - Started the Predictions from the best model 
+2020-08-13/00:07:14		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/00:07:14		Prediction - Successfully loaded the model.
+2020-08-13/00:07:14		Prediction - Successfully completed the predictions.
+2020-08-13/00:07:14		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/00:22:01		Prediction - Started the Predictions from the best model 
+2020-08-13/00:22:02		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/00:22:02		Prediction - Successfully loaded the model.
+2020-08-13/00:22:10		Prediction - Successfully completed the predictions.
+2020-08-13/00:22:13		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/00:23:20		Prediction - Started the Predictions from the best model 
+2020-08-13/00:23:20		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/00:23:20		Prediction - Successfully loaded the model.
+2020-08-13/00:23:27		Prediction - Successfully completed the predictions.
+2020-08-13/00:23:30		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/00:31:42		Prediction - Started the Predictions from the best model 
+2020-08-13/00:31:43		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/00:31:43		Prediction - Successfully loaded the model.
+2020-08-13/00:31:50		Prediction - Successfully completed the predictions.
+2020-08-13/00:31:53		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/07:48:06		Prediction - Started the Predictions from the best model 
+2020-08-13/07:48:07		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/07:48:07		Prediction - Successfully loaded the model.
+2020-08-13/07:48:15		Prediction - Successfully completed the predictions.
+2020-08-13/07:48:16		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/07:53:00		Prediction - Started the Predictions from the best model 
+2020-08-13/07:53:01		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/07:53:01		Prediction - Successfully loaded the model.
+2020-08-13/07:53:09		Prediction - Successfully completed the predictions.
+2020-08-13/07:53:10		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/08:02:58		Prediction - Started the Predictions from the best model 
+2020-08-13/08:02:59		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/08:02:59		Prediction - Successfully loaded the model.
+2020-08-13/08:03:06		Prediction - Successfully completed the predictions.
+2020-08-13/08:03:07		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/08:04:54		Prediction - Started the Predictions from the best model 
+2020-08-13/08:04:54		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/08:04:54		Prediction - Successfully loaded the model.
+2020-08-13/08:04:54		Prediction - Successfully completed the predictions.
+2020-08-13/08:04:54		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/08:05:12		Prediction - Started the Predictions from the best model 
+2020-08-13/08:05:13		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/08:05:13		Prediction - Successfully loaded the model.
+2020-08-13/08:05:20		Prediction - Successfully completed the predictions.
+2020-08-13/08:05:22		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/08:06:01		Prediction - Started the Predictions from the best model 
+2020-08-13/08:06:01		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/08:06:01		Prediction - Successfully loaded the model.
+2020-08-13/08:06:01		Prediction - Successfully completed the predictions.
+2020-08-13/08:06:01		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/11:25:13		Prediction - Started the Predictions from the best model 
+2020-08-13/11:25:13		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/11:25:13		Prediction - Successfully loaded the model.
+2020-08-13/11:25:13		Prediction - Successfully completed the predictions.
+2020-08-13/11:25:14		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/11:26:15		Prediction - Started the Predictions from the best model 
+2020-08-13/11:26:16		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/11:26:16		Prediction - Successfully loaded the model.
+2020-08-13/11:26:27		Prediction - Successfully completed the predictions.
+2020-08-13/11:26:32		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/13:06:35		Prediction - Started the Predictions from the best model 
+2020-08-13/13:06:35		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/13:06:35		Prediction - Successfully loaded the model.
+2020-08-13/13:06:35		Prediction - Successfully completed the predictions.
+2020-08-13/13:06:35		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/16:03:39		Prediction - Started the Predictions from the best model 
+2020-08-13/16:03:39		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/16:03:39		Prediction - Successfully loaded the model.
+2020-08-13/16:03:47		Prediction - Successfully completed the predictions.
+2020-08-13/16:03:50		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/16:39:16		Prediction - Started the Predictions from the best model 
+2020-08-13/16:39:17		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/16:39:17		Prediction - Successfully loaded the model.
+2020-08-13/16:39:25		Prediction - Successfully completed the predictions.
+2020-08-13/16:39:28		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/16:39:52		Prediction - Started the Predictions from the best model 
+2020-08-13/16:39:52		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/16:39:52		Prediction - Successfully loaded the model.
+2020-08-13/16:39:52		Prediction - Successfully completed the predictions.
+2020-08-13/16:39:52		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/16:43:30		Prediction - Started the Predictions from the best model 
+2020-08-13/16:43:30		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/16:43:30		Prediction - Successfully loaded the model.
+2020-08-13/16:43:30		Prediction - Successfully completed the predictions.
+2020-08-13/16:43:31		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/16:44:33		Prediction - Started the Predictions from the best model 
+2020-08-13/16:44:33		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/16:44:33		Prediction - Successfully loaded the model.
+2020-08-13/16:44:33		Prediction - Successfully completed the predictions.
+2020-08-13/16:44:33		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/16:51:17		Prediction - Started the Predictions from the best model 
+2020-08-13/16:51:17		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/16:51:17		Prediction - Successfully loaded the model.
+2020-08-13/16:51:17		Prediction - Successfully completed the predictions.
+2020-08-13/16:51:17		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/16:53:00		Prediction - Started the Predictions from the best model 
+2020-08-13/16:53:00		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/16:53:00		Prediction - Successfully loaded the model.
+2020-08-13/16:53:00		Prediction - Successfully completed the predictions.
+2020-08-13/16:53:00		Prediction - Successfully saved the Results file as desired location.
+2020-08-13/16:53:22		Prediction - Started the Predictions from the best model 
+2020-08-13/16:53:22		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-13/16:53:22		Prediction - Successfully loaded the model.
+2020-08-13/16:53:22		Prediction - Successfully completed the predictions.
+2020-08-13/16:53:22		Prediction - Successfully saved the Results file as desired location.
+2020-08-14/00:47:09		Prediction - Started the Predictions from the best model 
+2020-08-14/00:47:09		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-14/00:47:09		Prediction - Successfully loaded the model.
+2020-08-14/00:47:09		Prediction - Successfully completed the predictions.
+2020-08-14/00:47:10		Prediction - Successfully saved the Results file as desired location.
+2020-08-14/00:51:03		Prediction - Started the Predictions from the best model 
+2020-08-14/00:51:03		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-14/00:51:03		Prediction - Successfully loaded the model.
+2020-08-14/00:51:03		Prediction - Successfully completed the predictions.
+2020-08-14/00:51:03		Prediction - Successfully saved the Results file as desired location.
+2020-08-14/00:51:44		Prediction - Started the Predictions from the best model 
+2020-08-14/00:51:44		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-14/00:51:44		Prediction - Successfully loaded the model.
+2020-08-14/00:51:44		Prediction - Successfully completed the predictions.
+2020-08-14/00:51:44		Prediction - Successfully saved the Results file as desired location.
+2020-08-14/01:00:05		Prediction - Started the Predictions from the best model 
+2020-08-14/01:00:06		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-14/01:00:06		Prediction - Successfully loaded the model.
+2020-08-14/01:00:15		Prediction - Successfully completed the predictions.
+2020-08-14/01:00:21		Prediction - Successfully saved the Results file as desired location.
+2020-08-14/15:19:47		Prediction - Started the Predictions from the best model 
+2020-08-14/15:19:47		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-14/15:19:47		Prediction - Successfully loaded the model.
+2020-08-14/15:19:47		Prediction - Successfully completed the predictions.
+2020-08-14/15:19:47		Prediction - Successfully saved the Results file as desired location.
+2020-08-14/18:10:10		Prediction - Started the Predictions from the best model 
+2020-08-14/18:10:10		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-14/18:10:10		Prediction - Successfully loaded the model.
+2020-08-14/18:10:10		Prediction - Successfully completed the predictions.
+2020-08-14/18:10:10		Prediction - Successfully saved the Results file as desired location.
+2020-08-14/18:10:35		Prediction - Started the Predictions from the best model 
+2020-08-14/18:10:35		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-14/18:10:35		Prediction - Successfully loaded the model.
+2020-08-14/18:10:35		Prediction - Successfully completed the predictions.
+2020-08-14/18:10:35		Prediction - Successfully saved the Results file as desired location.
+2020-08-14/19:53:30		Prediction - Started the Predictions from the best model 
+2020-08-14/19:53:31		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-14/19:53:31		Prediction - Successfully loaded the model.
+2020-08-14/19:53:31		Prediction - Successfully completed the predictions.
+2020-08-14/19:53:31		Prediction - Successfully saved the Results file as desired location.
+2020-08-17/18:58:04		Prediction - Started the Predictions from the best model 
+2020-08-17/18:58:05		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-17/18:58:05		Prediction - Successfully loaded the model.
+2020-08-17/18:58:05		Prediction - Successfully completed the predictions.
+2020-08-17/18:58:05		Prediction - Successfully saved the Results file as desired location.
+2020-08-17/18:58:17		Prediction - Started the Predictions from the best model 
+2020-08-17/18:58:17		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-17/18:58:17		Prediction - Successfully loaded the model.
+2020-08-17/18:58:17		Prediction - Successfully completed the predictions.
+2020-08-17/18:58:17		Prediction - Successfully saved the Results file as desired location.
+2020-08-17/18:58:35		Prediction - Started the Predictions from the best model 
+2020-08-17/18:58:35		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-17/18:58:35		Prediction - Successfully loaded the model.
+2020-08-17/18:58:42		Prediction - Successfully completed the predictions.
+2020-08-17/18:58:43		Prediction - Successfully saved the Results file as desired location.
+2020-08-17/18:59:23		Prediction - Started the Predictions from the best model 
+2020-08-17/18:59:23		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-17/18:59:23		Prediction - Successfully loaded the model.
+2020-08-17/18:59:23		Prediction - Successfully completed the predictions.
+2020-08-17/18:59:23		Prediction - Successfully saved the Results file as desired location.
+2020-08-17/18:59:40		Prediction - Started the Predictions from the best model 
+2020-08-17/18:59:40		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-17/18:59:40		Prediction - Successfully loaded the model.
+2020-08-17/18:59:40		Prediction - Successfully completed the predictions.
+2020-08-17/18:59:40		Prediction - Successfully saved the Results file as desired location.
+2020-08-18/10:10:35		Prediction - Started the Predictions from the best model 
+2020-08-18/10:10:35		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-18/10:10:36		Prediction - Successfully loaded the model.
+2020-08-18/10:10:36		Prediction - Successfully completed the predictions.
+2020-08-18/10:10:36		Prediction - Successfully saved the Results file as desired location.
+2020-08-18/10:10:59		Prediction - Started the Predictions from the best model 
+2020-08-18/10:10:59		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-18/10:10:59		Prediction - Successfully loaded the model.
+2020-08-18/10:10:59		Prediction - Successfully completed the predictions.
+2020-08-18/10:10:59		Prediction - Successfully saved the Results file as desired location.
+2020-08-19/10:57:23		Prediction - Started the Predictions from the best model 
+2020-08-19/10:57:23		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-19/10:57:23		Prediction - Successfully loaded the model.
+2020-08-19/10:57:23		Prediction - Successfully completed the predictions.
+2020-08-19/10:57:23		Prediction - Successfully saved the Results file as desired location.
+2020-08-19/11:25:58		Prediction - Started the Predictions from the best model 
+2020-08-19/11:25:58		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-19/11:25:58		Prediction - Successfully loaded the model.
+2020-08-19/11:25:59		Prediction - Successfully completed the predictions.
+2020-08-19/11:25:59		Prediction - Successfully saved the Results file as desired location.
+2020-08-19/12:58:56		Prediction - Started the Predictions from the best model 
+2020-08-19/12:58:56		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-19/12:58:56		Prediction - Successfully loaded the model.
+2020-08-19/12:58:56		Prediction - Successfully completed the predictions.
+2020-08-19/12:58:56		Prediction - Successfully saved the Results file as desired location.
+2020-08-19/13:13:22		Prediction - Started the Predictions from the best model 
+2020-08-19/13:13:22		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-19/13:13:22		Prediction - Successfully loaded the model.
+2020-08-19/13:13:22		Prediction - Successfully completed the predictions.
+2020-08-19/13:13:22		Prediction - Successfully saved the Results file as desired location.
+2020-08-19/13:16:58		Prediction - Started the Predictions from the best model 
+2020-08-19/13:16:58		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-19/13:16:58		Prediction - Successfully loaded the model.
+2020-08-19/13:16:58		Prediction - Successfully completed the predictions.
+2020-08-19/13:16:58		Prediction - Successfully saved the Results file as desired location.
+2020-08-19/13:19:17		Prediction - Started the Predictions from the best model 
+2020-08-19/13:19:17		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-19/13:19:17		Prediction - Successfully loaded the model.
+2020-08-19/13:19:17		Prediction - Successfully completed the predictions.
+2020-08-19/13:19:17		Prediction - Successfully saved the Results file as desired location.
+2020-08-19/22:44:36		Prediction - Started the Predictions from the best model 
+2020-08-19/22:44:36		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-19/22:44:36		Prediction - Successfully loaded the model.
+2020-08-19/22:44:36		Prediction - Successfully completed the predictions.
+2020-08-19/22:44:36		Prediction - Successfully saved the Results file as desired location.
+2020-08-20/00:48:33		Prediction - Started the Predictions from the best model 
+2020-08-20/00:48:33		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-20/00:48:33		Prediction - Successfully loaded the model.
+2020-08-20/00:48:33		Prediction - Successfully completed the predictions.
+2020-08-20/00:48:33		Prediction - Successfully saved the Results file as desired location.
+2020-08-21/16:04:57		Prediction - Started the Predictions from the best model 
+2020-08-21/16:04:57		Prediction - Successfully read the pre-processed file for Prediction.
+2020-08-21/16:04:57		Prediction - Successfully loaded the model.
+2020-08-21/16:04:57		Prediction - Successfully completed the predictions.
+2020-08-21/16:04:57		Prediction - Successfully saved the Results file as desired location.

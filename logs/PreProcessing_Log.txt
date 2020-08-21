@@ -1,0 +1,640 @@
+2020-08-12/19:52:35		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/19:52:35		Pre-Processing - Successfully read the Training file
+2020-08-12/19:52:37		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-12/19:52:37		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/19:52:37		Pre-Processing - Successfully scaled down the data.
+2020-08-12/19:52:38		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-12/19:52:43		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/20:03:21		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/20:03:21		Pre-Processing - Successfully read the Training file
+2020-08-12/20:03:21		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-12/20:03:21		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/20:03:21		Pre-Processing - Successfully scaled down the data.
+2020-08-12/20:03:22		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-12/20:03:29		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/20:13:39		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/20:13:40		Pre-Processing - Successfully read the Training file
+2020-08-12/20:13:40		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-12/20:13:40		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/20:13:40		Pre-Processing - Successfully scaled down the data.
+2020-08-12/20:13:41		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-12/20:13:47		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/20:15:50		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/20:15:50		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/20:15:50		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/20:15:50		Pre-Processing - Successfully scaled down the data.
+2020-08-12/20:15:50		Exception occured in data pre-processing. Exception message:  This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2020-08-12/20:16:43		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/20:16:44		Pre-Processing - Successfully read the Training file
+2020-08-12/20:16:44		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-12/20:16:44		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/20:16:44		Pre-Processing - Successfully scaled down the data.
+2020-08-12/20:16:45		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-12/20:16:51		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/21:08:18		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/21:08:18		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/21:08:18		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/21:08:18		Pre-Processing - Successfully scaled down the data.
+2020-08-12/21:08:18		Exception occured in data pre-processing. Exception message:  This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2020-08-12/21:17:52		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/21:17:52		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/21:17:52		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/21:17:52		Pre-Processing - Successfully scaled down the data.
+2020-08-12/21:17:52		Exception occured in data pre-processing. Exception message:  This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2020-08-12/21:23:48		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/21:23:48		Pre-Processing - Successfully read the Training file
+2020-08-12/21:23:48		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-12/21:23:48		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/21:23:49		Pre-Processing - Successfully scaled down the data.
+2020-08-12/21:23:49		Exception occured in data pre-processing. Exception message:  This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2020-08-12/21:27:36		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/21:27:37		Pre-Processing - Successfully read the Training file
+2020-08-12/21:27:37		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-12/21:27:37		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/21:27:37		Pre-Processing - Successfully scaled down the data.
+2020-08-12/21:27:37		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-12/21:27:43		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/21:39:38		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/21:39:38		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/21:39:38		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/21:39:39		Pre-Processing - Successfully scaled down the data.
+2020-08-12/21:39:39		Exception occured in data pre-processing. Exception message:  local variable 'pca' referenced before assignment
+2020-08-12/21:44:24		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/21:44:24		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/21:44:24		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/21:44:25		Pre-Processing - Successfully scaled down the data.
+2020-08-12/21:44:25		PCA error:  This PCA instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2020-08-12/21:58:37		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/21:58:38		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/21:58:38		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/21:58:38		Pre-Processing - Successfully scaled down the data.
+2020-08-12/21:58:43		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/21:59:48		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/21:59:48		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/21:59:48		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/21:59:48		Pre-Processing - Successfully scaled down the data.
+2020-08-12/21:59:48		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/22:00:14		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/22:00:14		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/22:00:14		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/22:00:14		Pre-Processing - Successfully scaled down the data.
+2020-08-12/22:00:14		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/22:04:39		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/22:04:39		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/22:04:39		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/22:04:39		Pre-Processing - Successfully scaled down the data.
+2020-08-12/22:04:39		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/22:05:19		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/22:05:19		Pre-Processing - Successfully read the Training file
+2020-08-12/22:05:19		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-12/22:05:19		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/22:05:19		Pre-Processing - Successfully scaled down the data.
+2020-08-12/22:05:20		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-12/22:05:26		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/22:06:08		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/22:06:09		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/22:06:09		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/22:06:09		Pre-Processing - Successfully scaled down the data.
+2020-08-12/22:06:09		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/22:06:25		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/22:06:25		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/22:06:25		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/22:06:25		Pre-Processing - Successfully scaled down the data.
+2020-08-12/22:06:30		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/22:29:28		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/22:29:28		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/22:29:28		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/22:29:28		Pre-Processing - Successfully scaled down the data.
+2020-08-12/22:29:33		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/22:29:56		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/22:29:56		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/22:29:56		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/22:29:56		Pre-Processing - Successfully scaled down the data.
+2020-08-12/22:29:56		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/22:55:54		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/22:55:55		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/22:55:55		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/22:55:55		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/22:55:55		Pre-Processing - Successfully scaled down the data.
+2020-08-12/22:56:01		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:00:26		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:00:26		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:00:26		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:00:26		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:00:26		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:00:32		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:10:45		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:10:46		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:10:46		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:10:46		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:10:46		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:10:51		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:11:52		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:11:53		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:11:53		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:11:53		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:11:53		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:11:58		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:13:43		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:13:43		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:13:43		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:13:43		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:13:43		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:13:43		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:16:36		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:16:37		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:16:37		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:16:37		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:16:37		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:16:42		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:17:22		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:17:22		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:17:22		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:17:22		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:17:22		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:17:23		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:18:27		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:18:27		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:18:27		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:18:27		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:18:27		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:18:27		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:18:37		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:18:37		Pre-Processing - Successfully read the Training file
+2020-08-12/23:18:37		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-12/23:18:37		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:18:37		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:18:37		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:18:38		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-12/23:18:43		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:28:06		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:28:07		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:28:07		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:28:07		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:28:07		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:28:14		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:34:54		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:34:55		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:34:55		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:34:55		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:34:55		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:35:00		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:35:28		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:35:28		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:35:28		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:35:28		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:35:28		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:35:28		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:35:40		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:35:40		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:35:40		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:35:40		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:35:40		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:35:40		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:38:17		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:38:17		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:38:17		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:38:17		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:38:18		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:38:24		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:39:40		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:39:41		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:39:41		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:39:41		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:39:41		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:39:46		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:40:10		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:40:10		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:40:10		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:40:10		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:40:10		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:40:10		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:45:42		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:45:42		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:45:42		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:45:42		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:45:42		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:45:48		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:46:36		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:46:36		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:46:37		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:46:37		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:46:37		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:46:42		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:47:38		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:47:39		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:47:39		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:47:39		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:47:39		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:47:44		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-12/23:51:26		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-12/23:51:27		Pre-Processing - Successfully read the Prediction file file.
+2020-08-12/23:51:27		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-12/23:51:27		Pre-Processing - Successfully removed the 1st Column.
+2020-08-12/23:51:27		Pre-Processing - Successfully scaled down the data.
+2020-08-12/23:51:32		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/00:02:28		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/00:02:29		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/00:02:29		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/00:02:29		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/00:02:29		Pre-Processing - Successfully scaled down the data.
+2020-08-13/00:02:34		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/00:05:09		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/00:05:10		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/00:05:10		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/00:05:10		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/00:05:10		Pre-Processing - Successfully scaled down the data.
+2020-08-13/00:05:17		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/00:07:13		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/00:07:14		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/00:07:14		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/00:07:14		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/00:07:14		Pre-Processing - Successfully scaled down the data.
+2020-08-13/00:07:14		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/00:21:55		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/00:21:55		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/00:21:55		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/00:21:55		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/00:21:56		Pre-Processing - Successfully scaled down the data.
+2020-08-13/00:22:01		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/00:23:12		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/00:23:13		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/00:23:13		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/00:23:13		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/00:23:13		Pre-Processing - Successfully scaled down the data.
+2020-08-13/00:23:20		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/00:25:03		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/00:25:03		Pre-Processing - Successfully read the Training file
+2020-08-13/00:25:03		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-13/00:25:03		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/00:25:03		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/00:25:03		Pre-Processing - Successfully scaled down the data.
+2020-08-13/00:25:04		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-13/00:25:11		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/00:29:55		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/00:29:55		Pre-Processing - Successfully read the Training file
+2020-08-13/00:29:55		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-13/00:29:55		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/00:29:55		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/00:29:55		Pre-Processing - Successfully scaled down the data.
+2020-08-13/00:29:56		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-13/00:30:02		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/00:31:36		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/00:31:37		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/00:31:37		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/00:31:37		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/00:31:37		Pre-Processing - Successfully scaled down the data.
+2020-08-13/00:31:42		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/07:47:59		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/07:48:00		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/07:48:00		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/07:48:00		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/07:48:00		Pre-Processing - Successfully scaled down the data.
+2020-08-13/07:48:06		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/07:52:55		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/07:52:55		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/07:52:55		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/07:52:55		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/07:52:55		Pre-Processing - Successfully scaled down the data.
+2020-08-13/07:53:00		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/08:02:53		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/08:02:53		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/08:02:53		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/08:02:53		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/08:02:53		Pre-Processing - Successfully scaled down the data.
+2020-08-13/08:02:58		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/08:04:54		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/08:04:54		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/08:04:54		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/08:04:54		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/08:04:54		Pre-Processing - Successfully scaled down the data.
+2020-08-13/08:04:54		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/08:05:05		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/08:05:06		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/08:05:06		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/08:05:06		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/08:05:06		Pre-Processing - Successfully scaled down the data.
+2020-08-13/08:05:12		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/08:06:01		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/08:06:01		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/08:06:01		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/08:06:01		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/08:06:01		Pre-Processing - Successfully scaled down the data.
+2020-08-13/08:06:01		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/11:25:13		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/11:25:13		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/11:25:13		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/11:25:13		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/11:25:13		Pre-Processing - Successfully scaled down the data.
+2020-08-13/11:25:13		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/11:26:03		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/11:26:04		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/11:26:04		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/11:26:04		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/11:26:04		Pre-Processing - Successfully scaled down the data.
+2020-08-13/11:26:15		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/13:06:35		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/13:06:35		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/13:06:35		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/13:06:35		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/13:06:35		Pre-Processing - Successfully scaled down the data.
+2020-08-13/13:06:35		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/16:03:33		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/16:03:33		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/16:03:33		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/16:03:33		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/16:03:33		Pre-Processing - Successfully scaled down the data.
+2020-08-13/16:03:39		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/16:39:09		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/16:39:09		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/16:39:09		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/16:39:09		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/16:39:09		Pre-Processing - Successfully scaled down the data.
+2020-08-13/16:39:16		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/16:39:52		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/16:39:52		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/16:39:52		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/16:39:52		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/16:39:52		Pre-Processing - Successfully scaled down the data.
+2020-08-13/16:39:52		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/16:40:07		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/16:40:07		Pre-Processing - Successfully read the Training file
+2020-08-13/16:40:07		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-13/16:40:07		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/16:40:07		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/16:40:07		Pre-Processing - Successfully scaled down the data.
+2020-08-13/16:40:08		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-13/16:40:14		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/16:43:30		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/16:43:30		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/16:43:30		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/16:43:30		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/16:43:30		Pre-Processing - Successfully scaled down the data.
+2020-08-13/16:43:30		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/16:44:33		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/16:44:33		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/16:44:33		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/16:44:33		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/16:44:33		Pre-Processing - Successfully scaled down the data.
+2020-08-13/16:44:33		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/16:51:16		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/16:51:17		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/16:51:17		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/16:51:17		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/16:51:17		Pre-Processing - Successfully scaled down the data.
+2020-08-13/16:51:17		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/16:53:00		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/16:53:00		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/16:53:00		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/16:53:00		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/16:53:00		Pre-Processing - Successfully scaled down the data.
+2020-08-13/16:53:00		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/16:53:22		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/16:53:22		Pre-Processing - Successfully read the Prediction file file.
+2020-08-13/16:53:22		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/16:53:22		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/16:53:22		Pre-Processing - Successfully scaled down the data.
+2020-08-13/16:53:22		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-13/16:53:30		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-13/16:53:30		Pre-Processing - Successfully read the Training file
+2020-08-13/16:53:30		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-13/16:53:30		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-13/16:53:30		Pre-Processing - Successfully removed the 1st Column.
+2020-08-13/16:53:30		Pre-Processing - Successfully scaled down the data.
+2020-08-13/16:53:31		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-13/16:53:36		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/00:47:09		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/00:47:09		Pre-Processing - Successfully read the Prediction file file.
+2020-08-14/00:47:09		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/00:47:09		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/00:47:09		Pre-Processing - Successfully scaled down the data.
+2020-08-14/00:47:09		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/00:51:03		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/00:51:03		Pre-Processing - Successfully read the Prediction file file.
+2020-08-14/00:51:03		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/00:51:03		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/00:51:03		Pre-Processing - Successfully scaled down the data.
+2020-08-14/00:51:03		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/00:51:44		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/00:51:44		Pre-Processing - Successfully read the Prediction file file.
+2020-08-14/00:51:44		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/00:51:44		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/00:51:44		Pre-Processing - Successfully scaled down the data.
+2020-08-14/00:51:44		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/00:52:11		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/00:52:12		Pre-Processing - Successfully read the Training file
+2020-08-14/00:52:12		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-14/00:52:12		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/00:52:12		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/00:52:12		Pre-Processing - Successfully scaled down the data.
+2020-08-14/00:52:12		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-14/00:52:17		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/00:59:58		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/00:59:58		Pre-Processing - Successfully read the Prediction file file.
+2020-08-14/00:59:58		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/00:59:58		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/00:59:58		Pre-Processing - Successfully scaled down the data.
+2020-08-14/01:00:05		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/15:19:47		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/15:19:47		Pre-Processing - Successfully read the Prediction file file.
+2020-08-14/15:19:47		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/15:19:47		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/15:19:47		Pre-Processing - Successfully scaled down the data.
+2020-08-14/15:19:47		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/15:20:09		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/15:20:09		Pre-Processing - Successfully read the Training file
+2020-08-14/15:20:09		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-14/15:20:09		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/15:20:09		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/15:20:09		Pre-Processing - Successfully scaled down the data.
+2020-08-14/15:20:10		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-14/15:20:17		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/18:10:10		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/18:10:10		Pre-Processing - Successfully read the Prediction file file.
+2020-08-14/18:10:10		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/18:10:10		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/18:10:10		Pre-Processing - Successfully scaled down the data.
+2020-08-14/18:10:10		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/18:10:35		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/18:10:35		Pre-Processing - Successfully read the Prediction file file.
+2020-08-14/18:10:35		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/18:10:35		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/18:10:35		Pre-Processing - Successfully scaled down the data.
+2020-08-14/18:10:35		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/18:10:59		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/18:10:59		Pre-Processing - Successfully read the Training file
+2020-08-14/18:10:59		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-14/18:10:59		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/18:10:59		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/18:10:59		Pre-Processing - Successfully scaled down the data.
+2020-08-14/18:10:59		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-14/18:11:07		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/19:53:30		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/19:53:30		Pre-Processing - Successfully read the Prediction file file.
+2020-08-14/19:53:30		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/19:53:30		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/19:53:30		Pre-Processing - Successfully scaled down the data.
+2020-08-14/19:53:30		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-14/19:54:27		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-14/19:54:28		Pre-Processing - Successfully read the Training file
+2020-08-14/19:54:28		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-14/19:54:28		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-14/19:54:28		Pre-Processing - Successfully removed the 1st Column.
+2020-08-14/19:54:28		Pre-Processing - Successfully scaled down the data.
+2020-08-14/19:54:29		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-14/19:54:37		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-17/18:58:04		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-17/18:58:04		Pre-Processing - Successfully read the Prediction file file.
+2020-08-17/18:58:04		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-17/18:58:04		Pre-Processing - Successfully removed the 1st Column.
+2020-08-17/18:58:04		Pre-Processing - Successfully scaled down the data.
+2020-08-17/18:58:04		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-17/18:58:17		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-17/18:58:17		Pre-Processing - Successfully read the Prediction file file.
+2020-08-17/18:58:17		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-17/18:58:17		Pre-Processing - Successfully removed the 1st Column.
+2020-08-17/18:58:17		Pre-Processing - Successfully scaled down the data.
+2020-08-17/18:58:17		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-17/18:58:29		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-17/18:58:29		Pre-Processing - Successfully read the Prediction file file.
+2020-08-17/18:58:29		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-17/18:58:29		Pre-Processing - Successfully removed the 1st Column.
+2020-08-17/18:58:29		Pre-Processing - Successfully scaled down the data.
+2020-08-17/18:58:35		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-17/18:59:23		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-17/18:59:23		Pre-Processing - Successfully read the Prediction file file.
+2020-08-17/18:59:23		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-17/18:59:23		Pre-Processing - Successfully removed the 1st Column.
+2020-08-17/18:59:23		Pre-Processing - Successfully scaled down the data.
+2020-08-17/18:59:23		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-17/18:59:40		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-17/18:59:40		Pre-Processing - Successfully read the Prediction file file.
+2020-08-17/18:59:40		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-17/18:59:40		Pre-Processing - Successfully removed the 1st Column.
+2020-08-17/18:59:40		Pre-Processing - Successfully scaled down the data.
+2020-08-17/18:59:40		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-17/18:59:44		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-17/18:59:44		Pre-Processing - Successfully read the Training file
+2020-08-17/18:59:44		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-17/18:59:45		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-17/18:59:45		Pre-Processing - Successfully removed the 1st Column.
+2020-08-17/18:59:45		Pre-Processing - Successfully scaled down the data.
+2020-08-17/18:59:45		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-17/18:59:50		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-18/10:10:35		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-18/10:10:35		Pre-Processing - Successfully read the Prediction file file.
+2020-08-18/10:10:35		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-18/10:10:35		Pre-Processing - Successfully removed the 1st Column.
+2020-08-18/10:10:35		Pre-Processing - Successfully scaled down the data.
+2020-08-18/10:10:35		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-18/10:10:59		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-18/10:10:59		Pre-Processing - Successfully read the Prediction file file.
+2020-08-18/10:10:59		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-18/10:10:59		Pre-Processing - Successfully removed the 1st Column.
+2020-08-18/10:10:59		Pre-Processing - Successfully scaled down the data.
+2020-08-18/10:10:59		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-18/10:11:22		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-18/10:11:22		Pre-Processing - Successfully read the Training file
+2020-08-18/10:11:22		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-18/10:11:22		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-18/10:11:22		Pre-Processing - Successfully removed the 1st Column.
+2020-08-18/10:11:22		Pre-Processing - Successfully scaled down the data.
+2020-08-18/10:11:23		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-18/10:11:28		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-19/10:57:22		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/10:57:22		Pre-Processing - Successfully read the Prediction file file.
+2020-08-19/10:57:23		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-19/10:57:23		Pre-Processing - Successfully removed the 1st Column.
+2020-08-19/10:57:23		Pre-Processing - Successfully scaled down the data.
+2020-08-19/10:57:23		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-19/10:58:07		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/10:58:08		Pre-Processing - Successfully read the Training file
+2020-08-19/10:58:08		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-19/10:58:08		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-19/10:58:08		Pre-Processing - Successfully removed the 1st Column.
+2020-08-19/10:58:08		Pre-Processing - Successfully scaled down the data.
+2020-08-19/10:58:09		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-19/10:58:16		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-19/11:25:58		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/11:25:58		Pre-Processing - Successfully read the Prediction file.
+2020-08-19/11:25:58		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-19/11:25:58		Pre-Processing - Successfully removed the 1st Column.
+2020-08-19/11:25:58		Pre-Processing - Successfully scaled down the data.
+2020-08-19/11:25:58		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-19/12:09:45		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/12:09:45		Pre-Processing - Successfully read the Re-Training file
+2020-08-19/12:09:45		Re-Training - Successfully read the Old Train Data.
+2020-08-19/12:09:45		Exception occured in data pre-processing. Exception message:  'DataFrame' object has no attribute 'map'
+2020-08-19/12:22:12		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/12:22:12		Pre-Processing - Successfully read the Re-Training file
+2020-08-19/12:22:12		Re-Training - Successfully read the Old Train Data.
+2020-08-19/12:22:13		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-19/12:22:13		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-19/12:22:13		Pre-Processing - Successfully removed the 1st Column.
+2020-08-19/12:22:13		Pre-Processing - Successfully scaled down the data.
+2020-08-19/12:22:14		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-19/12:22:25		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-19/12:57:00		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/12:57:00		Exception occured in data pre-processing. Exception message:  name 'pd' is not defined
+2020-08-19/12:57:09		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/12:57:09		Exception occured in data pre-processing. Exception message:  name 'pd' is not defined
+2020-08-19/12:58:56		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/12:58:56		Pre-Processing - Successfully read the Prediction file.
+2020-08-19/12:58:56		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-19/12:58:56		Pre-Processing - Successfully removed the 1st Column.
+2020-08-19/12:58:56		Pre-Processing - Successfully scaled down the data.
+2020-08-19/12:58:56		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-19/13:13:22		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/13:13:22		Pre-Processing - Successfully read the Prediction file.
+2020-08-19/13:13:22		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-19/13:13:22		Pre-Processing - Successfully removed the 1st Column.
+2020-08-19/13:13:22		Pre-Processing - Successfully scaled down the data.
+2020-08-19/13:13:22		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-19/13:16:58		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/13:16:58		Pre-Processing - Successfully read the Prediction file.
+2020-08-19/13:16:58		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-19/13:16:58		Pre-Processing - Successfully removed the 1st Column.
+2020-08-19/13:16:58		Pre-Processing - Successfully scaled down the data.
+2020-08-19/13:16:58		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-19/13:19:17		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/13:19:17		Pre-Processing - Successfully read the Prediction file.
+2020-08-19/13:19:17		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-19/13:19:17		Pre-Processing - Successfully removed the 1st Column.
+2020-08-19/13:19:17		Pre-Processing - Successfully scaled down the data.
+2020-08-19/13:19:17		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-19/22:44:36		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-19/22:44:36		Pre-Processing - Successfully read the Prediction file.
+2020-08-19/22:44:36		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-19/22:44:36		Pre-Processing - Successfully removed the 1st Column.
+2020-08-19/22:44:36		Pre-Processing - Successfully scaled down the data.
+2020-08-19/22:44:36		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-20/00:48:33		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-20/00:48:33		Pre-Processing - Successfully read the Prediction file.
+2020-08-20/00:48:33		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-20/00:48:33		Pre-Processing - Successfully removed the 1st Column.
+2020-08-20/00:48:33		Pre-Processing - Successfully scaled down the data.
+2020-08-20/00:48:33		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-20/00:48:47		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-20/00:48:47		Pre-Processing - Successfully read the Re-Training file
+2020-08-20/00:48:47		Re-Training - Successfully read the Old Train Data.
+2020-08-20/00:48:47		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-20/00:48:47		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-20/00:48:47		Pre-Processing - Successfully removed the 1st Column.
+2020-08-20/00:48:47		Pre-Processing - Successfully scaled down the data.
+2020-08-20/00:48:48		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-20/00:48:56		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-20/00:50:08		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-20/00:50:08		Pre-Processing - Successfully read the Re-Training file
+2020-08-20/00:50:08		Re-Training - Successfully read the Old Train Data.
+2020-08-20/00:50:08		Pre-Processing - Successfully saved the df_Y file desired location.
+2020-08-20/00:50:08		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-20/00:50:08		Pre-Processing - Successfully removed the 1st Column.
+2020-08-20/00:50:08		Pre-Processing - Successfully scaled down the data.
+2020-08-20/00:50:09		Pre-Processing - Successfully transformed the data using PCA.
+2020-08-20/00:50:18		Pre-Processing - Successfully saved the pre-processed file at desired location.
+2020-08-21/16:04:57		Pre-Processing - Started the pre-processing of the Validated file
+2020-08-21/16:04:57		Pre-Processing - Successfully read the Prediction file.
+2020-08-21/16:04:57		Pre-Processing - Successfully saved the patient ID file at desired location
+2020-08-21/16:04:57		Pre-Processing - Successfully removed the 1st Column.
+2020-08-21/16:04:57		Pre-Processing - Successfully scaled down the data.
+2020-08-21/16:04:57		Pre-Processing - Successfully saved the pre-processed file at desired location.

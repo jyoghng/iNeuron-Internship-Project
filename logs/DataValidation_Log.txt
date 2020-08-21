@@ -1,0 +1,572 @@
+2020-08-12/19:52:34		Data Validation - Column Length Validation Started!
+2020-08-12/19:52:34		Data Validation - File read successfully!
+2020-08-12/19:52:35		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/19:52:35		Data Validation Completed!
+2020-08-12/20:03:19		Data Validation - Column Length Validation Started!
+2020-08-12/20:03:20		Data Validation - File read successfully!
+2020-08-12/20:03:21		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/20:03:21		Data Validation Completed!
+2020-08-12/20:13:38		Data Validation - Column Length Validation Started!
+2020-08-12/20:13:38		Data Validation - File read successfully!
+2020-08-12/20:13:39		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/20:13:39		Data Validation Completed!
+2020-08-12/20:15:48		Data Validation - Column Length Validation Started!
+2020-08-12/20:15:49		Data Validation - File read successfully!
+2020-08-12/20:15:50		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/20:15:50		Data Validation Completed!
+2020-08-12/20:16:42		Data Validation - Column Length Validation Started!
+2020-08-12/20:16:43		Data Validation - File read successfully!
+2020-08-12/20:16:43		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/20:16:43		Data Validation Completed!
+2020-08-12/21:08:17		Data Validation - Column Length Validation Started!
+2020-08-12/21:08:17		Data Validation - File read successfully!
+2020-08-12/21:08:18		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/21:08:18		Data Validation Completed!
+2020-08-12/21:17:50		Data Validation - Column Length Validation Started!
+2020-08-12/21:17:51		Data Validation - File read successfully!
+2020-08-12/21:17:52		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/21:17:52		Data Validation Completed!
+2020-08-12/21:23:47		Data Validation - Column Length Validation Started!
+2020-08-12/21:23:47		Data Validation - File read successfully!
+2020-08-12/21:23:48		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/21:23:48		Data Validation Completed!
+2020-08-12/21:27:35		Data Validation - Column Length Validation Started!
+2020-08-12/21:27:36		Data Validation - File read successfully!
+2020-08-12/21:27:36		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/21:27:36		Data Validation Completed!
+2020-08-12/21:39:37		Data Validation - Column Length Validation Started!
+2020-08-12/21:39:37		Data Validation - File read successfully!
+2020-08-12/21:39:38		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/21:39:38		Data Validation Completed!
+2020-08-12/21:44:23		Data Validation - Column Length Validation Started!
+2020-08-12/21:44:23		Data Validation - File read successfully!
+2020-08-12/21:44:24		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/21:44:24		Data Validation Completed!
+2020-08-12/21:58:36		Data Validation - Column Length Validation Started!
+2020-08-12/21:58:36		Data Validation - File read successfully!
+2020-08-12/21:58:37		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/21:58:37		Data Validation Completed!
+2020-08-12/21:59:48		Data Validation - Column Length Validation Started!
+2020-08-12/21:59:48		Data Validation - File read successfully!
+2020-08-12/21:59:48		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/21:59:48		Data Validation Completed!
+2020-08-12/22:00:14		Data Validation - Column Length Validation Started!
+2020-08-12/22:00:14		Data Validation - File read successfully!
+2020-08-12/22:00:14		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/22:00:14		Data Validation Completed!
+2020-08-12/22:04:39		Data Validation - Column Length Validation Started!
+2020-08-12/22:04:39		Data Validation - File read successfully!
+2020-08-12/22:04:39		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/22:04:39		Data Validation Completed!
+2020-08-12/22:05:18		Data Validation - Column Length Validation Started!
+2020-08-12/22:05:18		Data Validation - File read successfully!
+2020-08-12/22:05:19		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/22:05:19		Data Validation Completed!
+2020-08-12/22:05:47		Data Validation - Column Length Validation Started!
+2020-08-12/22:05:48		Data Validation - File read successfully!
+2020-08-12/22:05:48		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-12/22:05:55		Data Validation - Column Length Validation Started!
+2020-08-12/22:05:56		Data Validation - File read successfully!
+2020-08-12/22:05:56		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-12/22:06:08		Data Validation - Column Length Validation Started!
+2020-08-12/22:06:08		Data Validation - File read successfully!
+2020-08-12/22:06:08		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/22:06:08		Data Validation Completed!
+2020-08-12/22:06:23		Data Validation - Column Length Validation Started!
+2020-08-12/22:06:24		Data Validation - File read successfully!
+2020-08-12/22:06:25		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/22:06:25		Data Validation Completed!
+2020-08-12/22:29:27		Data Validation - Column Length Validation Started!
+2020-08-12/22:29:27		Data Validation - File read successfully!
+2020-08-12/22:29:28		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/22:29:28		Data Validation Completed!
+2020-08-12/22:29:56		Data Validation - Column Length Validation Started!
+2020-08-12/22:29:56		Data Validation - File read successfully!
+2020-08-12/22:29:56		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/22:29:56		Data Validation Completed!
+2020-08-12/22:55:53		Data Validation - Column Length Validation Started!
+2020-08-12/22:55:53		Data Validation - File read successfully!
+2020-08-12/22:55:54		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/22:55:54		Data Validation Completed!
+2020-08-12/23:00:25		Data Validation - Column Length Validation Started!
+2020-08-12/23:00:25		Data Validation - File read successfully!
+2020-08-12/23:00:26		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:00:26		Data Validation Completed!
+2020-08-12/23:10:44		Data Validation - Column Length Validation Started!
+2020-08-12/23:10:44		Data Validation - File read successfully!
+2020-08-12/23:10:45		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:10:45		Data Validation Completed!
+2020-08-12/23:11:51		Data Validation - Column Length Validation Started!
+2020-08-12/23:11:52		Data Validation - File read successfully!
+2020-08-12/23:11:52		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:11:52		Data Validation Completed!
+2020-08-12/23:13:42		Data Validation - Column Length Validation Started!
+2020-08-12/23:13:43		Data Validation - File read successfully!
+2020-08-12/23:13:43		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:13:43		Data Validation Completed!
+2020-08-12/23:16:35		Data Validation - Column Length Validation Started!
+2020-08-12/23:16:35		Data Validation - File read successfully!
+2020-08-12/23:16:36		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:16:36		Data Validation Completed!
+2020-08-12/23:17:22		Data Validation - Column Length Validation Started!
+2020-08-12/23:17:22		Data Validation - File read successfully!
+2020-08-12/23:17:22		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:17:22		Data Validation Completed!
+2020-08-12/23:18:27		Data Validation - Column Length Validation Started!
+2020-08-12/23:18:27		Data Validation - File read successfully!
+2020-08-12/23:18:27		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:18:27		Data Validation Completed!
+2020-08-12/23:18:36		Data Validation - Column Length Validation Started!
+2020-08-12/23:18:36		Data Validation - File read successfully!
+2020-08-12/23:18:37		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:18:37		Data Validation Completed!
+2020-08-12/23:19:03		Data Validation - Column Length Validation Started!
+2020-08-12/23:19:04		Data Validation - File read successfully!
+2020-08-12/23:19:05		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-12/23:19:12		Data Validation - Column Length Validation Started!
+2020-08-12/23:19:13		Data Validation - File read successfully!
+2020-08-12/23:19:13		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-12/23:28:05		Data Validation - Column Length Validation Started!
+2020-08-12/23:28:06		Data Validation - File read successfully!
+2020-08-12/23:28:06		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:28:06		Data Validation Completed!
+2020-08-12/23:34:53		Data Validation - Column Length Validation Started!
+2020-08-12/23:34:53		Data Validation - File read successfully!
+2020-08-12/23:34:54		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:34:54		Data Validation Completed!
+2020-08-12/23:35:28		Data Validation - Column Length Validation Started!
+2020-08-12/23:35:28		Data Validation - File read successfully!
+2020-08-12/23:35:28		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:35:28		Data Validation Completed!
+2020-08-12/23:35:39		Data Validation - Column Length Validation Started!
+2020-08-12/23:35:40		Data Validation - File read successfully!
+2020-08-12/23:35:40		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:35:40		Data Validation Completed!
+2020-08-12/23:38:16		Data Validation - Column Length Validation Started!
+2020-08-12/23:38:16		Data Validation - File read successfully!
+2020-08-12/23:38:17		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:38:17		Data Validation Completed!
+2020-08-12/23:39:39		Data Validation - Column Length Validation Started!
+2020-08-12/23:39:40		Data Validation - File read successfully!
+2020-08-12/23:39:40		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:39:40		Data Validation Completed!
+2020-08-12/23:40:09		Data Validation - Column Length Validation Started!
+2020-08-12/23:40:10		Data Validation - File read successfully!
+2020-08-12/23:40:10		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:40:10		Data Validation Completed!
+2020-08-12/23:45:41		Data Validation - Column Length Validation Started!
+2020-08-12/23:45:41		Data Validation - File read successfully!
+2020-08-12/23:45:42		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:45:42		Data Validation Completed!
+2020-08-12/23:46:35		Data Validation - Column Length Validation Started!
+2020-08-12/23:46:35		Data Validation - File read successfully!
+2020-08-12/23:46:36		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:46:36		Data Validation Completed!
+2020-08-12/23:47:37		Data Validation - Column Length Validation Started!
+2020-08-12/23:47:38		Data Validation - File read successfully!
+2020-08-12/23:47:38		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:47:38		Data Validation Completed!
+2020-08-12/23:51:25		Data Validation - Column Length Validation Started!
+2020-08-12/23:51:26		Data Validation - File read successfully!
+2020-08-12/23:51:26		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-12/23:51:26		Data Validation Completed!
+2020-08-13/00:02:27		Data Validation - Column Length Validation Started!
+2020-08-13/00:02:28		Data Validation - File read successfully!
+2020-08-13/00:02:28		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/00:02:28		Data Validation Completed!
+2020-08-13/00:05:08		Data Validation - Column Length Validation Started!
+2020-08-13/00:05:08		Data Validation - File read successfully!
+2020-08-13/00:05:09		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/00:05:09		Data Validation Completed!
+2020-08-13/00:07:13		Data Validation - Column Length Validation Started!
+2020-08-13/00:07:13		Data Validation - File read successfully!
+2020-08-13/00:07:13		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/00:07:13		Data Validation Completed!
+2020-08-13/00:12:25		Data Validation - Column Length Validation Started!
+2020-08-13/00:12:25		Data Validation - File read successfully!
+2020-08-13/00:12:25		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/00:21:00		Data Validation - Column Length Validation Started!
+2020-08-13/00:21:01		Data Validation - File read successfully!
+2020-08-13/00:21:01		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/00:21:34		Data Validation - Column Length Validation Started!
+2020-08-13/00:21:35		Data Validation - File read successfully!
+2020-08-13/00:21:35		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/00:21:54		Data Validation - Column Length Validation Started!
+2020-08-13/00:21:54		Data Validation - File read successfully!
+2020-08-13/00:21:55		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/00:21:55		Data Validation Completed!
+2020-08-13/00:23:11		Data Validation - Column Length Validation Started!
+2020-08-13/00:23:11		Data Validation - File read successfully!
+2020-08-13/00:23:12		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/00:23:12		Data Validation Completed!
+2020-08-13/00:25:01		Data Validation - Column Length Validation Started!
+2020-08-13/00:25:02		Data Validation - File read successfully!
+2020-08-13/00:25:03		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/00:25:03		Data Validation Completed!
+2020-08-13/00:29:54		Data Validation - Column Length Validation Started!
+2020-08-13/00:29:54		Data Validation - File read successfully!
+2020-08-13/00:29:55		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/00:29:55		Data Validation Completed!
+2020-08-13/00:31:35		Data Validation - Column Length Validation Started!
+2020-08-13/00:31:36		Data Validation - File read successfully!
+2020-08-13/00:31:36		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/00:31:36		Data Validation Completed!
+2020-08-13/00:32:23		Data Validation - Column Length Validation Started!
+2020-08-13/00:32:23		Data Validation - File read successfully!
+2020-08-13/00:32:23		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/07:47:58		Data Validation - Column Length Validation Started!
+2020-08-13/07:47:59		Data Validation - File read successfully!
+2020-08-13/07:47:59		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/07:47:59		Data Validation Completed!
+2020-08-13/07:52:54		Data Validation - Column Length Validation Started!
+2020-08-13/07:52:54		Data Validation - File read successfully!
+2020-08-13/07:52:55		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/07:52:55		Data Validation Completed!
+2020-08-13/07:53:48		Data Validation - Column Length Validation Started!
+2020-08-13/07:53:49		Data Validation - File read successfully!
+2020-08-13/07:53:49		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/07:54:23		Data Validation - Column Length Validation Started!
+2020-08-13/07:54:23		Data Validation - File read successfully!
+2020-08-13/07:54:24		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/07:57:44		Data Validation - Column Length Validation Started!
+2020-08-13/07:57:44		Data Validation - File read successfully!
+2020-08-13/07:57:45		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/07:58:02		Data Validation - Column Length Validation Started!
+2020-08-13/07:58:02		Data Validation - File read successfully!
+2020-08-13/07:58:03		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/07:58:20		Data Validation - Column Length Validation Started!
+2020-08-13/07:58:20		Data Validation - File read successfully!
+2020-08-13/07:58:21		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/08:01:29		Data Validation - Column Length Validation Started!
+2020-08-13/08:01:30		Data Validation - File read successfully!
+2020-08-13/08:01:30		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/08:01:45		Data Validation - Column Length Validation Started!
+2020-08-13/08:01:46		Data Validation - File read successfully!
+2020-08-13/08:01:46		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/08:01:57		Data Validation - Column Length Validation Started!
+2020-08-13/08:01:57		Data Validation - File read successfully!
+2020-08-13/08:01:57		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/08:02:52		Data Validation - Column Length Validation Started!
+2020-08-13/08:02:52		Data Validation - File read successfully!
+2020-08-13/08:02:53		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/08:02:53		Data Validation Completed!
+2020-08-13/08:04:54		Data Validation - Column Length Validation Started!
+2020-08-13/08:04:54		Data Validation - File read successfully!
+2020-08-13/08:04:54		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/08:04:54		Data Validation Completed!
+2020-08-13/08:05:04		Data Validation - Column Length Validation Started!
+2020-08-13/08:05:04		Data Validation - File read successfully!
+2020-08-13/08:05:05		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/08:05:05		Data Validation Completed!
+2020-08-13/08:06:01		Data Validation - Column Length Validation Started!
+2020-08-13/08:06:01		Data Validation - File read successfully!
+2020-08-13/08:06:01		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/08:06:01		Data Validation Completed!
+2020-08-13/08:28:52		Data Validation - Column Length Validation Started!
+2020-08-13/08:28:52		Data Validation - File read successfully!
+2020-08-13/08:28:52		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/11:25:13		Data Validation - Column Length Validation Started!
+2020-08-13/11:25:13		Data Validation - File read successfully!
+2020-08-13/11:25:13		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/11:25:13		Data Validation Completed!
+2020-08-13/11:26:01		Data Validation - Column Length Validation Started!
+2020-08-13/11:26:02		Data Validation - File read successfully!
+2020-08-13/11:26:03		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/11:26:03		Data Validation Completed!
+2020-08-13/11:30:38		Data Validation - Column Length Validation Started!
+2020-08-13/11:30:39		Data Validation - File read successfully!
+2020-08-13/11:30:40		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/11:30:48		Data Validation - Column Length Validation Started!
+2020-08-13/11:30:49		Data Validation - File read successfully!
+2020-08-13/11:30:50		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/11:31:01		Data Validation - Column Length Validation Started!
+2020-08-13/11:31:02		Data Validation - File read successfully!
+2020-08-13/11:31:02		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/11:31:16		Data Validation - Column Length Validation Started!
+2020-08-13/11:31:17		Data Validation - File read successfully!
+2020-08-13/11:31:17		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/12:38:19		Data Validation - Column Length Validation Started!
+2020-08-13/12:38:19		Data Validation - File read successfully!
+2020-08-13/12:38:19		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/13:06:35		Data Validation - Column Length Validation Started!
+2020-08-13/13:06:35		Data Validation - File read successfully!
+2020-08-13/13:06:35		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/13:06:35		Data Validation Completed!
+2020-08-13/16:03:12		Data Validation - Column Length Validation Started!
+2020-08-13/16:03:13		Data Validation - File read successfully!
+2020-08-13/16:03:13		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/16:03:32		Data Validation - Column Length Validation Started!
+2020-08-13/16:03:32		Data Validation - File read successfully!
+2020-08-13/16:03:33		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/16:03:33		Data Validation Completed!
+2020-08-13/16:39:08		Data Validation - Column Length Validation Started!
+2020-08-13/16:39:08		Data Validation - File read successfully!
+2020-08-13/16:39:09		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/16:39:09		Data Validation Completed!
+2020-08-13/16:39:52		Data Validation - Column Length Validation Started!
+2020-08-13/16:39:52		Data Validation - File read successfully!
+2020-08-13/16:39:52		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/16:39:52		Data Validation Completed!
+2020-08-13/16:40:06		Data Validation - Column Length Validation Started!
+2020-08-13/16:40:06		Data Validation - File read successfully!
+2020-08-13/16:40:07		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/16:40:07		Data Validation Completed!
+2020-08-13/16:40:38		Data Validation - Column Length Validation Started!
+2020-08-13/16:40:39		Data Validation - File read successfully!
+2020-08-13/16:40:39		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/16:40:45		Data Validation - Column Length Validation Started!
+2020-08-13/16:40:46		Data Validation - File read successfully!
+2020-08-13/16:40:46		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/16:40:54		Data Validation - Column Length Validation Started!
+2020-08-13/16:40:55		Data Validation - File read successfully!
+2020-08-13/16:40:55		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/16:41:07		Data Validation - Column Length Validation Started!
+2020-08-13/16:41:08		Data Validation - File read successfully!
+2020-08-13/16:41:08		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/16:43:30		Data Validation - Column Length Validation Started!
+2020-08-13/16:43:30		Data Validation - File read successfully!
+2020-08-13/16:43:30		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/16:43:30		Data Validation Completed!
+2020-08-13/16:44:33		Data Validation - Column Length Validation Started!
+2020-08-13/16:44:33		Data Validation - File read successfully!
+2020-08-13/16:44:33		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/16:44:33		Data Validation Completed!
+2020-08-13/16:51:16		Data Validation - Column Length Validation Started!
+2020-08-13/16:51:16		Data Validation - File read successfully!
+2020-08-13/16:51:16		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/16:51:16		Data Validation Completed!
+2020-08-13/16:53:00		Data Validation - Column Length Validation Started!
+2020-08-13/16:53:00		Data Validation - File read successfully!
+2020-08-13/16:53:00		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/16:53:00		Data Validation Completed!
+2020-08-13/16:53:22		Data Validation - Column Length Validation Started!
+2020-08-13/16:53:22		Data Validation - File read successfully!
+2020-08-13/16:53:22		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/16:53:22		Data Validation Completed!
+2020-08-13/16:53:29		Data Validation - Column Length Validation Started!
+2020-08-13/16:53:29		Data Validation - File read successfully!
+2020-08-13/16:53:30		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-13/16:53:30		Data Validation Completed!
+2020-08-13/16:54:05		Data Validation - Column Length Validation Started!
+2020-08-13/16:54:05		Data Validation - File read successfully!
+2020-08-13/16:54:06		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/16:54:13		Data Validation - Column Length Validation Started!
+2020-08-13/16:54:14		Data Validation - File read successfully!
+2020-08-13/16:54:14		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/16:54:25		Data Validation - Column Length Validation Started!
+2020-08-13/16:54:25		Data Validation - File read successfully!
+2020-08-13/16:54:25		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-13/17:08:35		Data Validation - Column Length Validation Started!
+2020-08-13/17:08:35		Data Validation - File read successfully!
+2020-08-13/17:08:35		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/17:10:08		Data Validation - Column Length Validation Started!
+2020-08-13/17:10:08		Data Validation - File read successfully!
+2020-08-13/17:10:08		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/17:15:28		Data Validation - Column Length Validation Started!
+2020-08-13/17:15:28		Data Validation - File read successfully!
+2020-08-13/17:15:28		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-13/17:16:32		Data Validation - Column Length Validation Started!
+2020-08-13/17:16:32		Data Validation - File read successfully!
+2020-08-13/17:16:32		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-14/00:47:09		Data Validation - Column Length Validation Started!
+2020-08-14/00:47:09		Data Validation - File read successfully!
+2020-08-14/00:47:09		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/00:47:09		Data Validation Completed!
+2020-08-14/00:51:03		Data Validation - Column Length Validation Started!
+2020-08-14/00:51:03		Data Validation - File read successfully!
+2020-08-14/00:51:03		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/00:51:03		Data Validation Completed!
+2020-08-14/00:51:44		Data Validation - Column Length Validation Started!
+2020-08-14/00:51:44		Data Validation - File read successfully!
+2020-08-14/00:51:44		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/00:51:44		Data Validation Completed!
+2020-08-14/00:52:10		Data Validation - Column Length Validation Started!
+2020-08-14/00:52:11		Data Validation - File read successfully!
+2020-08-14/00:52:11		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/00:52:11		Data Validation Completed!
+2020-08-14/00:53:11		Data Validation - Column Length Validation Started!
+2020-08-14/00:53:11		Data Validation - File read successfully!
+2020-08-14/00:53:12		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-14/00:53:18		Data Validation - Column Length Validation Started!
+2020-08-14/00:53:18		Data Validation - File read successfully!
+2020-08-14/00:53:19		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-14/00:53:43		Data Validation - Column Length Validation Started!
+2020-08-14/00:53:43		Data Validation - File read successfully!
+2020-08-14/00:53:43		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-14/00:57:15		Data Validation - Column Length Validation Started!
+2020-08-14/00:57:15		Data Validation - File read successfully!
+2020-08-14/00:57:16		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-14/00:59:57		Data Validation - Column Length Validation Started!
+2020-08-14/00:59:57		Data Validation - File read successfully!
+2020-08-14/00:59:58		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/00:59:58		Data Validation Completed!
+2020-08-14/15:19:47		Data Validation - Column Length Validation Started!
+2020-08-14/15:19:47		Data Validation - File read successfully!
+2020-08-14/15:19:47		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/15:19:47		Data Validation Completed!
+2020-08-14/15:20:08		Data Validation - Column Length Validation Started!
+2020-08-14/15:20:08		Data Validation - File read successfully!
+2020-08-14/15:20:09		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/15:20:09		Data Validation Completed!
+2020-08-14/15:21:07		Data Validation - Column Length Validation Started!
+2020-08-14/15:21:07		Data Validation - File read successfully!
+2020-08-14/15:21:08		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-14/18:10:10		Data Validation - Column Length Validation Started!
+2020-08-14/18:10:10		Data Validation - File read successfully!
+2020-08-14/18:10:10		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/18:10:10		Data Validation Completed!
+2020-08-14/18:10:35		Data Validation - Column Length Validation Started!
+2020-08-14/18:10:35		Data Validation - File read successfully!
+2020-08-14/18:10:35		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/18:10:35		Data Validation Completed!
+2020-08-14/18:10:58		Data Validation - Column Length Validation Started!
+2020-08-14/18:10:58		Data Validation - File read successfully!
+2020-08-14/18:10:59		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/18:10:59		Data Validation Completed!
+2020-08-14/18:11:43		Data Validation - Column Length Validation Started!
+2020-08-14/18:11:43		Data Validation - File read successfully!
+2020-08-14/18:11:44		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-14/18:11:51		Data Validation - Column Length Validation Started!
+2020-08-14/18:11:51		Data Validation - File read successfully!
+2020-08-14/18:11:52		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-14/19:53:30		Data Validation - Column Length Validation Started!
+2020-08-14/19:53:30		Data Validation - File read successfully!
+2020-08-14/19:53:30		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/19:53:30		Data Validation Completed!
+2020-08-14/19:54:08		Data Validation - Column Length Validation Started!
+2020-08-14/19:54:08		Data Validation - File read successfully!
+2020-08-14/19:54:09		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-14/19:54:26		Data Validation - Column Length Validation Started!
+2020-08-14/19:54:26		Data Validation - File read successfully!
+2020-08-14/19:54:27		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-14/19:54:27		Data Validation Completed!
+2020-08-17/18:58:04		Data Validation - Column Length Validation Started!
+2020-08-17/18:58:04		Data Validation - File read successfully!
+2020-08-17/18:58:04		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-17/18:58:04		Data Validation Completed!
+2020-08-17/18:58:17		Data Validation - Column Length Validation Started!
+2020-08-17/18:58:17		Data Validation - File read successfully!
+2020-08-17/18:58:17		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-17/18:58:17		Data Validation Completed!
+2020-08-17/18:58:28		Data Validation - Column Length Validation Started!
+2020-08-17/18:58:28		Data Validation - File read successfully!
+2020-08-17/18:58:29		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-17/18:58:29		Data Validation Completed!
+2020-08-17/18:59:23		Data Validation - Column Length Validation Started!
+2020-08-17/18:59:23		Data Validation - File read successfully!
+2020-08-17/18:59:23		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-17/18:59:23		Data Validation Completed!
+2020-08-17/18:59:40		Data Validation - Column Length Validation Started!
+2020-08-17/18:59:40		Data Validation - File read successfully!
+2020-08-17/18:59:40		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-17/18:59:40		Data Validation Completed!
+2020-08-17/18:59:43		Data Validation - Column Length Validation Started!
+2020-08-17/18:59:44		Data Validation - File read successfully!
+2020-08-17/18:59:44		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-17/18:59:44		Data Validation Completed!
+2020-08-17/19:00:15		Data Validation - Column Length Validation Started!
+2020-08-17/19:00:15		Data Validation - File read successfully!
+2020-08-17/19:00:15		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-17/19:00:24		Data Validation - Column Length Validation Started!
+2020-08-17/19:00:24		Data Validation - File read successfully!
+2020-08-17/19:00:25		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-17/19:00:41		Data Validation - Column Length Validation Started!
+2020-08-17/19:00:41		Data Validation - File read successfully!
+2020-08-17/19:00:42		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-18/10:10:35		Data Validation - Column Length Validation Started!
+2020-08-18/10:10:35		Data Validation - File read successfully!
+2020-08-18/10:10:35		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-18/10:10:35		Data Validation Completed!
+2020-08-18/10:10:59		Data Validation - Column Length Validation Started!
+2020-08-18/10:10:59		Data Validation - File read successfully!
+2020-08-18/10:10:59		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-18/10:10:59		Data Validation Completed!
+2020-08-18/10:11:21		Data Validation - Column Length Validation Started!
+2020-08-18/10:11:21		Data Validation - File read successfully!
+2020-08-18/10:11:22		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-18/10:11:22		Data Validation Completed!
+2020-08-18/10:11:47		Data Validation - Column Length Validation Started!
+2020-08-18/10:11:48		Data Validation - File read successfully!
+2020-08-18/10:11:48		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-18/10:11:54		Data Validation - Column Length Validation Started!
+2020-08-18/10:11:55		Data Validation - File read successfully!
+2020-08-18/10:11:55		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-18/10:12:02		Data Validation - Column Length Validation Started!
+2020-08-18/10:12:03		Data Validation - File read successfully!
+2020-08-18/10:12:03		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-19/10:57:22		Data Validation - Column Length Validation Started!
+2020-08-19/10:57:22		Data Validation - File read successfully!
+2020-08-19/10:57:22		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/10:57:22		Data Validation Completed!
+2020-08-19/10:57:42		Data Validation - Column Length Validation Started!
+2020-08-19/10:57:42		Data Validation - File read successfully!
+2020-08-19/10:57:42		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-19/10:58:06		Data Validation - Column Length Validation Started!
+2020-08-19/10:58:06		Data Validation - File read successfully!
+2020-08-19/10:58:07		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/10:58:07		Data Validation Completed!
+2020-08-19/11:14:35		Data Validation - Column Length Validation Started!
+2020-08-19/11:14:36		Data Validation - File read successfully!
+2020-08-19/11:14:37		Data Validation - Invalid Column Length for the file! File moved to Bad Raw Folder
+2020-08-19/11:14:48		Data Validation - Column Length Validation Started!
+2020-08-19/11:14:48		Data Validation - File read successfully!
+2020-08-19/11:14:48		Data Validation - Error Occured:: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2020-08-19/11:25:58		Data Validation - Column Length Validation Started!
+2020-08-19/11:25:58		Data Validation - File read successfully!
+2020-08-19/11:25:58		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/11:25:58		Data Validation Completed!
+2020-08-19/12:09:45		Data Validation - Column Length Validation Started!
+2020-08-19/12:09:45		Data Validation - File read successfully!
+2020-08-19/12:09:45		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/12:09:45		Data Validation Completed!
+2020-08-19/12:22:11		Data Validation - Column Length Validation Started!
+2020-08-19/12:22:12		Data Validation - File read successfully!
+2020-08-19/12:22:12		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/12:22:12		Data Validation Completed!
+2020-08-19/12:33:25		Data Validation - Column Length Validation Started!
+2020-08-19/12:33:25		Data Validation - File read successfully!
+2020-08-19/12:33:25		Data Validation - Error Occured:: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2020-08-19/12:56:59		Data Validation - Column Length Validation Started!
+2020-08-19/12:57:00		Data Validation - File read successfully!
+2020-08-19/12:57:00		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/12:57:00		Data Validation Completed!
+2020-08-19/12:57:09		Data Validation - Column Length Validation Started!
+2020-08-19/12:57:09		Data Validation - File read successfully!
+2020-08-19/12:57:09		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/12:57:09		Data Validation Completed!
+2020-08-19/12:58:56		Data Validation - Column Length Validation Started!
+2020-08-19/12:58:56		Data Validation - File read successfully!
+2020-08-19/12:58:56		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/12:58:56		Data Validation Completed!
+2020-08-19/13:13:22		Data Validation - Column Length Validation Started!
+2020-08-19/13:13:22		Data Validation - File read successfully!
+2020-08-19/13:13:22		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/13:13:22		Data Validation Completed!
+2020-08-19/13:16:58		Data Validation - Column Length Validation Started!
+2020-08-19/13:16:58		Data Validation - File read successfully!
+2020-08-19/13:16:58		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/13:16:58		Data Validation Completed!
+2020-08-19/13:19:17		Data Validation - Column Length Validation Started!
+2020-08-19/13:19:17		Data Validation - File read successfully!
+2020-08-19/13:19:17		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/13:19:17		Data Validation Completed!
+2020-08-19/22:44:36		Data Validation - Column Length Validation Started!
+2020-08-19/22:44:36		Data Validation - File read successfully!
+2020-08-19/22:44:36		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-19/22:44:36		Data Validation Completed!
+2020-08-20/00:48:32		Data Validation - Column Length Validation Started!
+2020-08-20/00:48:33		Data Validation - File read successfully!
+2020-08-20/00:48:33		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-20/00:48:33		Data Validation Completed!
+2020-08-20/00:48:46		Data Validation - Column Length Validation Started!
+2020-08-20/00:48:46		Data Validation - File read successfully!
+2020-08-20/00:48:47		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-20/00:48:47		Data Validation Completed!
+2020-08-20/00:50:07		Data Validation - Column Length Validation Started!
+2020-08-20/00:50:08		Data Validation - File read successfully!
+2020-08-20/00:50:08		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-20/00:50:08		Data Validation Completed!
+2020-08-21/16:04:57		Data Validation - Column Length Validation Started!
+2020-08-21/16:04:57		Data Validation - File read successfully!
+2020-08-21/16:04:57		Data Validation - File Validated & Moved to Good Raw Folder
+2020-08-21/16:04:57		Data Validation Completed!
